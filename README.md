@@ -1,7 +1,6 @@
 # Office-Time-Traker
 
-Can be useful for people who wanted to monitor their office hours. Tool changes color as user spend 6 hours and more, truns into green once user 
-spend 8 hours in office.
+Can be used for people who wanted to monitor their office hours. Tool changes color as the user spends 6 hours and more, turns into green once user spends 8 hours in an office.
 
-Tool has capebility to moniter windows logon time and and logoff time.
+The tool has the capability to monitor windows login time and logoff time.
 
